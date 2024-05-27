@@ -2,4 +2,5 @@
 <channels>
   <channel site=""energeek.c" lang="es" xmltv_id="EnerGeekRadio.cl" site_id="EnerGeek Radio TV">EnerGeek Radio TV</channel>
   <channel site=""energeek.c" lang="es" xmltv_id="FanpopTV.cl" site_id="Fanpop TV">Fanpop TV</channel>
+  <channel site="arirang.com" lang="en" xmltv_id="ArirangTV.kr" site_id="CH_K">Arirang TV</channel>
 </channels>
