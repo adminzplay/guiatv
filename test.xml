@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channel id="0101">
+    <display-name lang="es">Telecanal</display-name>
+    <icon src="https://i.ibb.co/GRK9DgT/telecanal.jpg" />
+  </channel>
+  <channel id="0102">
+    <display-name lang="es">La Red</display-name>
+    <icon src="https://i.ibb.co/gFC4mZz/lared.jpg" />
+  </channel>
+  <channel id="0103">
+    <display-name lang="es">TV Más</display-name>
+    <icon src="https://i.ibb.co/6bBfF9S/tvmas.jpg" />
+  </channel>
+  <channel id="0104">
+    <display-name lang="es">TVN</display-name>
+    <icon src="https://i.ibb.co/V9vWkxh/tvn.jpg" />
+  </channel>
+  <channel id="0105">
+    <display-name lang="es">Mega</display-name>
+    <icon src="https://i.ibb.co/YcwNr6v/mega.jpg" />
+  </channel>
+  <channel id="0106">
+    <display-name lang="es">Chilevisión</display-name>
+    <icon src="https://i.ibb.co/DgsN4P3/chv.jpg" />
+  </channel>
+  <channel id="0107">
+    <display-name lang="es">Canal 13</display-name>
+    <icon src="https://i.ibb.co/wpcfFyk/canal13.jpg" />
+  </channel>
